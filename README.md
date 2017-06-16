@@ -10,10 +10,19 @@ my own starter for react project.
 * Webpack Dashboard Plugin
 * favicon supported
 
-### To run
+### To start and run
 
+First, clone the repo.
 ```
 git clone https://github.com/vibertthio/my-react-starter
+```
+
+Seconde, remove the original .git and start a new one.
+Maybe connect to your github.
+
+```
+rm -rf .git
+git init
 ```
 
 * Then install the dependencies:
