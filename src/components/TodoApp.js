@@ -1,6 +1,5 @@
 import React, { Component } from 'react'; // eslint-disable-line
 import RaisedButton from 'material-ui/RaisedButton';
-import cookie from 'react-cookie';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 
 import '../styles/App.css';
