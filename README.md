@@ -1,5 +1,7 @@
 # my-react-starter
 my own starter for react project.
+It would start with a simple app of todo lists to verify the usablity of this starter.
+You can simply remove the components and start it from ground.
 
 ### What's in it?
 
